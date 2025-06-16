@@ -6,12 +6,12 @@ box-sizing: border-box;
 
 body {
 font-family: 'Georgia', serif;
-background-color: #fcf9f2;
+background-color: #fffff2ee;
 color: #333;
 }
 
 header {
-background-color: #8fbc8f;
+background-color: #000000;
 color: white;
 text-align: center;
 padding: 30px 15px;
@@ -45,15 +45,15 @@ padding: 30px 20px;
 }
 
 .bloco {
-background-color: #ffffff;
+background-color: #fcfcfb;
 margin-bottom: 30px;
 padding: 20px;
-border-left: 6px solid #8fbc8f;
+border-left: 6px solid #fcff5c;
 box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
 .bloco h2 {
-color: #4a7042;
+color: #fcfffb;
 margin-bottom: 10px;
 }
 
@@ -81,20 +81,19 @@ border-radius: 4px;
 form button {
 margin-top: 15px;
 padding: 10px;
-background-color: #8fbc8f;
+background-color: #fffdfd;
 
-color: white;
+color: rgb(0, 0, 0);
 border: none;
 border-radius: 4px;
 cursor: pointer;
 }
 
 form button:hover {
-background-color: #779e77;
+background-color: #fffff9;
 }
-
 footer {
-background-color: #4a7042;
+background-color: #f1ff71;
 color: white;
 text-align: center;
 padding: 15px 0;
